@@ -1,12 +1,135 @@
-# 💫 About Me:
-# Hi, I'm Ashish Giri 👋<br><br>### AI/ML Engineer | Generative AI | Python Backend Developer<br><br>I'm an AI/ML Engineering graduate with hands-on experience in building machine learning applications, computer vision systems, and LLM-powered solutions. I enjoy working at the intersection of AI research and practical software development, turning ideas into scalable, real-world applications.<br><br>- 🔭 **I'm currently working on:** Exploring and building practical AI applications involving RAG pipelines, LLM integrations, and intelligent automation.<br>- 👯 **I'm looking to collaborate on:** Generative AI applications, RAG-based systems, AI agents, and computer vision projects.<br>- 🤝 **I'm looking for help with:** Building scalable AI systems, optimizing LLM workflows, and exploring production-ready AI architectures.<br>- 🌱 **I'm currently learning:** Advanced RAG architectures, LangGraph, LLM orchestration, AI agents, and scalable backend development.<br>- 💬 **Ask me about:** Python, Machine Learning, YOLO, Computer Vision, RAG, LangChain, LangGraph, FastAPI, and AI-powered applications.<br>- ⚡ **Fun fact:** I enjoy combining different areas of AI to solve practical problems, from intelligent traffic management to sustainable e-waste recycling.<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Languages & Backend**<br>- Python, SQL, OOP<br>- Flask, FastAPI, REST APIs<br><br>**AI / Machine Learning**<br>- Machine Learning, Deep Learning<br>- Computer Vision, Model Training & Evaluation<br>- YOLOv8, YOLO11, OpenCV<br><br>**Generative AI**<br>- LLMs, RAG, Prompt Engineering<br>- LangChain, LangGraph, LangSmith<br>- AI Agents, Gemini API, LiteLLM<br><br>**Databases & Vector Stores**<br>- MySQL, PostgreSQL, MongoDB<br>- ChromaDB, FAISS<br><br>**Tools & Platforms**<br>- Git, GitHub, Docker, Postman<br>- Google Colab, Kaggle, Roboflow<br><br>---<br><br>### 🚀 Featured Projects<br><br>**1. E-Waste Management & RAG Chatbot**<br>- Developed a multimodal RAG-based system using Gemini and ChromaDB for e-waste classification and intelligent recycling recommendations.<br>- Built FastAPI workflows for buyer-seller interactions, product listings, and pickup requests.<br>- Integrated Mapbox for recycling-center discovery and incorporated environmental impact and repairability factors into recommendations.<br><br>*Tech Stack: Python, FastAPI, Gemini, ChromaDB, RAG, Mapbox*<br><br>**2. YOLO-Based Smart Traffic Control System**<br>- Developed a real-time vehicle detection and traffic density estimation system using YOLO and OpenCV.<br>- Implemented adaptive traffic signal timing based on vehicle count, traffic density, and vehicle type.<br>- Incorporated emergency vehicle prioritization for smarter traffic management.<br><br>*Tech Stack: Python, YOLO, OpenCV, Computer Vision*<br><br>---<br><br>### 💼 Experience<br><br>**AIML Python Developer Intern — Tecnobij Solutions Pvt. Ltd.**  <br>*December 2025 – May 2026*<br><br>- Developed machine learning and computer vision solutions using Python, YOLO, and OpenCV.<br>- Built RAG-based chatbots using LangChain, LangGraph, vector databases, and LLM APIs.<br>- Developed Flask/FastAPI backend services, LiteLLM integrations, and AI-agent workflows.<br>- Worked on testing, debugging, monitoring, and optimization of AI applications.<br><br>---<br><br>### 🎓 Education<br><br>**Bachelor's Degree — Artificial Intelligence & Machine Learning**  <br>Pune University | 2022 – 2026<br><br>---<br><br>### 📫 Let's Connect<br><br>- GitHub: [@AshishGiri1806](https://github.com/AshishGiri1806)<br>- Email: ashish.s.giri@gmail.com<br><br>I'm always open to connecting with developers, AI enthusiasts, and people working on interesting technology projects.<br><br>**Let's build something impactful!** 🚀
+# Hi, I'm Ashish Giri 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AshishGiri1806&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=AshishGiri1806&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AshishGiri1806&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm an **AI/ML Engineer** with a strong focus on **Generative AI, Machine Learning, Computer Vision, and Backend Development**.
+
+I specialize in building **AI-powered applications, RAG-based systems, intelligent automation workflows, and computer vision solutions** using Python and modern AI frameworks. I enjoy developing practical solutions that combine machine learning models, LLMs, and scalable backend architectures to solve real-world problems.
+
+🌍 Open to AI/ML Engineering, Generative AI, and Python Backend opportunities
 
 ---
-[![](https://komarev.com/ghpvc/?username=AshishGiri1806&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏫 Education
+
+**Pune University** | India  
+**Bachelor's Degree in Artificial Intelligence & Machine Learning** | 2022 – 2026  
+**GPA: 3.05/4.0**
+
+**Relevant Areas:**  
+Machine Learning | Deep Learning | Artificial Intelligence | Computer Vision | Natural Language Processing | Database Management
+
+---
+
+## 💼 Professional Experience
+
+### 🤖 **AIML Python Developer Intern** | Tecnobij Solutions Pvt. Ltd.
+
+**December 2025 – May 2026**
+
+- Developed Machine Learning and Computer Vision solutions using **Python, YOLO, and OpenCV** for object detection, traffic monitoring, and disease prediction.
+- Built **RAG-based chatbots** using LangChain, LangGraph, vector databases, and LLM APIs with retrieval and workflow orchestration.
+- Developed backend services and REST APIs using **Flask and FastAPI**.
+- Integrated **LiteLLM** for LLM connectivity and developed AI-agent-based automation workflows.
+- Worked on application monitoring, testing, debugging, performance optimization, and deployment workflows.
+
+---
+
+## 🚀 Key Projects
+
+### ♻️ **E-Waste Management & RAG Chatbot**
+
+**Tech Stack:** Python, FastAPI, Gemini API, ChromaDB, RAG, Mapbox
+
+- Developed a multimodal RAG-based system using **Gemini and ChromaDB** for e-waste classification and intelligent recycling recommendations.
+- Implemented image and text-based workflows to classify e-waste and recommend appropriate disposal, repair, and recycling options.
+- Built FastAPI backend workflows for buyer-seller interactions, including product listings, pickup requests, and e-waste transaction management.
+- Integrated **Mapbox** for recycling-center discovery and incorporated environmental impact estimation and repairability factors into recommendations.
+
+---
+
+### 🚦 **YOLO-Based Smart Traffic Control System**
+
+**Tech Stack:** Python, YOLO, OpenCV, Computer Vision
+
+- Developed a real-time vehicle detection system using **YOLO** for traffic monitoring and vehicle classification.
+- Implemented traffic density estimation to dynamically calculate traffic signal timings based on vehicle count and road congestion.
+- Incorporated emergency vehicle prioritization to support faster passage for ambulances, police vehicles, and fire services.
+- Designed an end-to-end processing pipeline covering video input, object detection, density analysis, and adaptive traffic-signal control.
+
+---
+
+### 🏢 **ERP Automation – Multi-Agent System**
+
+**Tech Stack:** Python, CrewAI, Gemini API, Streamlit, LLMs
+
+- Designed a multi-agent automation system to streamline enterprise resource planning workflows.
+- Developed specialized agents for Procurement, HR, Finance, Compliance, and Analytics.
+- Integrated Gemini API for LLM-powered reasoning and task execution.
+- Built a Streamlit interface to interact with and monitor agent-driven workflows.
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Programming & Backend Development
+- Python, SQL, Object-Oriented Programming
+- Flask, FastAPI, REST API Development
+- API Integration, Backend Development
+
+### 🤖 Machine Learning & Deep Learning
+- Machine Learning, Deep Learning
+- Model Training, Evaluation, and Optimization
+- YOLOv8, YOLO11, ResNet, MobileNet
+
+### 🧠 Generative AI & LLM Engineering
+- Retrieval-Augmented Generation (RAG)
+- LangChain, LangGraph, LangSmith
+- LLM Integration, Prompt Engineering
+- AI Agents and Workflow Automation
+- Gemini API, LiteLLM
+
+### 👁️ Computer Vision
+- OpenCV, Object Detection
+- Image Classification
+- Real-Time Video Processing
+- Traffic Monitoring and Object Tracking
+
+### 🗄️ Databases & Vector Stores
+- MySQL, PostgreSQL, MongoDB
+- ChromaDB, FAISS
+
+### 🛠️ Tools & Platforms
+- Git, GitHub, Docker, Postman
+- Google Colab, Kaggle, Roboflow
+- Mapbox
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- 🥇 **Winner – InnovateYou Techathon 2.0:** Developed a real-time vehicle detection-based adaptive traffic signal system.
+- 🏅 **Finalist – Webathon 2024:** Presented an AI-powered EdTech platform and qualified among the top 20 teams out of 300+ participants.
+- 🌍 **Prosperity 2025 – IMC:** Participated in a global competition with 50,000+ participants, ranking 2306th.
+- 🌊 **Langflow Disaster Management Hackathon:** Developed an AI-powered disaster management portal recognized as an impactful solution by the evaluator.
+
+---
+
+## 📚 Areas of Interest
+
+- Generative AI and LLM Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI and Multi-Agent Systems
+- Computer Vision and Deep Learning
+- AI Application Development
+- Scalable Python Backend Systems
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [@AshishGiri1806](https://github.com/AshishGiri1806)
+- **LinkedIn:** [Ashish Giri](YOUR_LINKEDIN_URL)
+- **Email:** ashish.s.giri@gmail.com
+
+I'm always interested in collaborating on interesting AI/ML projects, exploring emerging technologies, and building solutions that make a meaningful impact.
+
+**Let's build something intelligent! 🚀**
